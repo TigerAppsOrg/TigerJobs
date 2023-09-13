@@ -1,7 +1,7 @@
 # TigerJobs
 TigerJobs is a platform for Princeton students to leave reviews and find what they need to land their next internship, job, or career. Created by Arnav Kumar '24 and Ambri Ma '24.
 
-Currently hosted on render (takes <1 min to load): https://tiger-jobs.onrender.com/
+Currently hosted on Heroku at https://jobs.tigerapps.org/
 <img width="1439" alt="Screenshot 2023-04-02 at 2 21 10 AM" src="https://user-images.githubusercontent.com/113531685/229335973-da55ad2c-a612-4701-853f-a1e9ba63624b.png">
 
 
